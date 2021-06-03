@@ -1,0 +1,25 @@
+p.p_satu{
+	display: inline-block;
+	background-color: orange;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+}
+
+p.p_dua{
+	display: inline-block;
+	background-color: blue;
+	color: white;
+}
+
+p.p_tiga{
+	display: inline-block;
+	background-color: none;
+	font-family: "Andale Mono", monospace;
+	border: 1px solid;
+}
+
+p.p_empat{
+	border-top: 1px solid;
+	display: inline-block;
+	background-color: grey;
+	font-weight: bold;
